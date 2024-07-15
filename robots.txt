@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ofaronog.github.io/sitemap
+Sitemap: https://ofaronog.github.io/app/sitemap
+Sitemap: https://ofaronog.github.io/assets/sitemap
+Sitemap: https://ofaronog.github.io/css/sitemap
+Sitemap: https://ofaronog.github.io/includes/sitemap
+Sitemap: https://ofaronog.github.io/item/sitemap
+Sitemap: https://ofaronog.github.io/src/sitemap
